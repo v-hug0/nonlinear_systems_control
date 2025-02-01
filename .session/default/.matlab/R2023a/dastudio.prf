@@ -1,0 +1,69 @@
+#
+#DAStudio Preference File
+#
+
+
+[DAStudio DDG]
+DDGFontSize=10
+
+[DAStudio Model Explorer]
+MEGeometry=510 289 902 627
+MESearchOptions_DeepSearch=1
+MESearchOptions_EvaluateProperties=0
+MESearchOptions_MatchCase=0
+MESearchOptions_MatchWholeString=0
+MESearchOptions_RefineAnd=0
+MESearchOptions_RegularExpression=1
+MESearchOptions_SearchLinks=0
+MESearchOptions_SearchMasks=0
+MESplitterPositions=527 0 171 721 499 251 
+METreeClassNames=Root,
+
+[GLUEEditorPreferences]
+FirstTimeScrollNotification=0
+FirstTimeSimulinkPortMoveTool=1
+SuggestActionsSearchNotification=0
+SuggestQuickInsertNotification=0
+
+[General]
+MatlabRelease=2023a
+
+[LibraryBrowser2]
+LBGeometry4Window=32 64 600 367
+LBListWidth=341
+LBRecentName0=simulink/Commonly Used Blocks/Demux
+LBRecentName1=simulink/Signal Routing/Demux
+LBRecentName10=roslib/ROS 2/Subscribe
+LBRecentName11=roslib/ROS 2/Publish
+LBRecentName2=simulink/User-Defined Functions/MATLAB System
+LBRecentName3=simulink/User-Defined Functions/MATLAB Function
+LBRecentName4=simulink/Commonly Used Blocks/Subsystem
+LBRecentName5=simulink/Commonly Used Blocks/In1
+LBRecentName6=simulink/Commonly Used Blocks/Constant
+LBRecentName7=simulink/Commonly Used Blocks/Vector Concatenate
+LBRecentName8=simulink/Commonly Used Blocks/Sum
+LBRecentName9=simulink/Continuous/PID Controller
+LBScaleFactor=1
+LBSearchHistory=deconcatenate,vector,matlab,error,PID,
+LBSearch_MatchCase=0
+LBSearch_MatchWholeWord=0
+LBSearch_UseRegExp=0
+LBSortStyle=0
+LBTreePopupHeight=500
+LBTreePopupWidth=250
+LBTreeWidth=243
+LBUseCache=1
+
+[Simulink Preferences]
+MEGeometry=510 289 750 450
+MEScope_Scope=Current
+MEScope_ShowLinkedSubSystems=0
+MEScope_ShowMaskedSubSystems=0
+MESplitterPositions=0 0 254 488 0 488 
+METreeClassNames=Simulink.EditorPrefs,Simulink.GeneralPrefs,Simulink.ModelFilePrefs,Simulink.Preferences,
+METreeClassRecord_Simulink.EditorPrefs::PropertyList=Name,
+METreeClassRecord_Simulink.GeneralPrefs::PropertyList=Name,
+METreeClassRecord_Simulink.ModelFilePrefs::PropertyList=Name,
+METreeClassRecord_Simulink.Preferences::ObjectTypes=Simulink.EditorPrefs,Simulink.GeneralPrefs,Simulink.ModelFilePrefs,
+METreeClassRecord_Simulink.Preferences::PropertyList=Name,
+

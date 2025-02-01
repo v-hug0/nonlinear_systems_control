@@ -1,0 +1,43 @@
+#
+#DAStudio Preference File
+#
+
+
+[DAStudio DDG]
+DDGFontSize=10
+
+[GLUEEditorPreferences]
+FirstTimeScrollNotification=0
+FirstTimeSimulinkPortMoveTool=1
+SuggestActionsSearchNotification=0
+SuggestQuickInsertNotification=0
+
+[General]
+MatlabRelease=2022a
+
+[LibraryBrowser2]
+LBGeometry4Window=32 64 600 367
+LBListWidth=341
+LBRecentName0=simulink/Commonly Used Blocks/Demux
+LBRecentName1=simulink/Signal Routing/Demux
+LBRecentName10=roslib/ROS 2/Subscribe
+LBRecentName11=roslib/ROS 2/Publish
+LBRecentName2=simulink/User-Defined Functions/MATLAB System
+LBRecentName3=simulink/User-Defined Functions/MATLAB Function
+LBRecentName4=simulink/Commonly Used Blocks/Subsystem
+LBRecentName5=simulink/Commonly Used Blocks/In1
+LBRecentName6=simulink/Commonly Used Blocks/Constant
+LBRecentName7=simulink/Commonly Used Blocks/Vector Concatenate
+LBRecentName8=simulink/Commonly Used Blocks/Sum
+LBRecentName9=simulink/Continuous/PID Controller
+LBScaleFactor=1
+LBSearchHistory=deconcatenate,vector,matlab,error,PID,
+LBSearch_MatchCase=0
+LBSearch_MatchWholeWord=0
+LBSearch_UseRegExp=0
+LBSortStyle=0
+LBTreePopupHeight=500
+LBTreePopupWidth=250
+LBTreeWidth=243
+LBUseCache=1
+
